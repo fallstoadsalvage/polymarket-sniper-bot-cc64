@@ -1,4 +1,4 @@
-# 
+# Polymarket secure Trading Bot: multi-exchange-support & portfolio-optimization offers the most advanced Polymarket trading-bot, with multi-exchange-support and
 
 
 
